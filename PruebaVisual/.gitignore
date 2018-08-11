@@ -1,0 +1,7 @@
+/target/
+.classpath
+.project
+.settings
+*generated*
+/bin
+/xtend-gen
